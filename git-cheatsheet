@@ -1,0 +1,8 @@
+1.) git add .
+- add all your changes to a queue
+
+2.) git commit -m "whatever comment you want"
+- adds a note to the queue
+
+3.) git push origin main
+- sends it to github
